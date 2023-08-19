@@ -1,7 +1,10 @@
 # Credit_Score_Classification_Project
 Tools: Google Colab Notebook, Python, Pandas, Scikit-Learn, SHAP
+
 Data: Credit Class Data with Client Information of a Bank
+
 Audience: Bank, Credit reporting agencies
+
 Objectives: 
   1. Determine low credit scorers 
   2. Identify major causes for low credit score
