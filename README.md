@@ -17,14 +17,19 @@ Perform overview and one-dimensional visualization to identify type, shape and d
 
 ## Hypothesis Testing
 Perform 2-dimensional analysis and visualization.
+
 Test the effect of demographic on credit score.
+
 Test the effect of behaviours on credit score.
 
 ## Machine Learning
 Pre-process numerical and categorical data.
+
 Build and test different models.
+
 Evaluate models using confusion matrix and SHAP values. 
 
 ## Presentation
 Identify low credit scorers and provide reccomendations that could help decrease low credit scorers.
+
 Present to less technically-inclined audience.
