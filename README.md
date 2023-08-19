@@ -7,6 +7,8 @@ Objectives:
   2. Identify major causes for low credit score
   3. Build Machine Learning model to classify credit scores
 
+GoogleDrive Link: https://bit.ly/Credit-Score-Project
+
 ## Exploratory Data Analysis
 Perform overview and one-dimensional visualization to identify type, shape and distribution of data.
 
